@@ -1,0 +1,13 @@
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\bin\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.exe
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\bin\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.deps.json
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\bin\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.runtimeconfig.json
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\bin\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.runtimeconfig.dev.json
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\bin\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.dll
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\bin\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.pdb
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\obj\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.csproj.AssemblyReference.cache
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\obj\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.AssemblyInfoInputs.cache
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\obj\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.AssemblyInfo.cs
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\obj\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.csproj.CoreCompileInputs.cache
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\obj\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.dll
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\obj\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.pdb
+C:\Users\Andrew.Maxey\source\repos\Interfaces_Andrew_Maxey\Interfaces_Andrew_Maxey\obj\Debug\netcoreapp3.1\Interfaces_Andrew_Maxey.genruntimeconfig.cache
